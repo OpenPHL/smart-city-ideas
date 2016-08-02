@@ -7,5 +7,5 @@
 * [Assets](rfi/assets.md)
 * [Submitting a Response](rfi/submitting-a-response.md)
 * [Appendix A: RFI Response Template](rfi/appendix-a-rfi-response-template.md)
-* [Appendix B: Tower Location](rfi/appendix-b-tower-location.md)
+* [Appendix B: Tower Location](rfi/appendix-b-tower-locations.md)
 
