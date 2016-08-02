@@ -20,4 +20,6 @@ The City lighting system is comprised of 105,000 roadway lights; 18,640 alley li
 
 **Right-of-way access to tunnels, water mains, and sewers** that is critical to the solution’s functionality and scale.
 
+## Additional Assets
+
 The City is interested in and open to the idea of providing access to **additional assets** (facilities, buildings, street furniture, etc.) that strengthen the solution’s potential to deliver revenue and public value. Providers are encouraged to be creative and consider a diverse array of potential uses such as public wi-fi, public safety, and the use of sensor technology to support various IoE (Internet of Everything) devices. Although additional assets cannot be promised at this stage, inspiring ideas will be taken into consideration during the development of any Request for Proposals.
