@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* Request For Ideas: Using Technology to Create a Smart City
+* Request For Ideas: *Using Technology to Create a Smart City*
     * [1. Administrative Information](rfi/administrative-information.md)
     * [2. Context](rfi/context.md)
     * [3. Request for Ideas \(RFI\)](rfi/request-for-ideas-rfi.md)
