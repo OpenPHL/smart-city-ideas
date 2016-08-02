@@ -1,4 +1,4 @@
-# Request for Ideas \(RFI\)
+# Request for Ideas (RFI)
 
 The City of Philadelphia is interested in determining if the existing assets outlined in [Section 4](assets.md) could be leveraged to better city operations and services. The City seeks information and ideas on any products and technologies that could use the se assets as a platform to improve public safety, public infrastructure maintenance, energy efficiency, public space management, transportation and quality of life for the residents and businesses of Philadelphia.
 
