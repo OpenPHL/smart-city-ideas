@@ -19,6 +19,8 @@ Questions regarding this RFI are to be submitted to [bigideasphl.com](http://big
 
 The City anticipates the following scheduled for the RFI process:
 
+| Milestone                       | Date            |
+| ------------------------------- | --------------- |
 | RFI release                     | July 12, 2016   |
 | Questions regarding the RFI due | July 27, 2016   |
 | Responses provided              | August 5, 2016  |
