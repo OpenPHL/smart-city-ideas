@@ -2,6 +2,8 @@
 
 ## 1. General Information
 
+|      |                                                        |                |
+| ---- | ------------------------------------------------------ | -------------- |
 | 1.1  | Firm Name:                                             |                |
 | 1.2  | Street Address:                                        |                |
 | 1.3  | City, State, Zip:                                      |                |
@@ -19,6 +21,8 @@
 
 ## 2. Proposal
 
+|      |     |
+| ---- | --- |
 | 2.1  | Please describe your solution and how your organization would address some or all of the points outlined in the RFI. Please include proposed uses, capacity, and/or services proposed to be delivered. Please list which assets your solution would repurpose (this can be one, some or all). *250 words or less*
 | 2.2  | Does your solution require additional in-kind City resources (e.g. staff time, technology, access to other city-ownedassets, etc.)? *150 words or less*
 | 2.3  | Please provide a list of what you view as the City’s responsibilities versus what your organization would provide? *250 words or less*
